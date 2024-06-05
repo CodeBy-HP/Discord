@@ -2,7 +2,11 @@
 
 A feature-rich Discord clone built with React, Redux, and Firebase. This project offers functionalities like user authentication via Google, creating channels, posting messages, deleting messages, and more.
 
+# Main Page
+![Screenshot (122)](https://github.com/CodeBy-HP/Discord-react_redux_firebase-Project/assets/145273554/ef3199a7-5ae6-4e8e-8bed-1a2efc23cbec)
 
+# Home Page
+![Screenshot (123)](https://github.com/CodeBy-HP/Discord-react_redux_firebase-Project/assets/145273554/2290704e-c450-4e0b-afb4-9bc44f7c527d)
 
 ## Features
 
@@ -36,13 +40,14 @@ Make sure you have the following installed on your local machine:
 
 ```sh
 # Clone the repository
-git clone https://github.com/YourUsername/discord-clone-react-redux-firebase.git
+git clone https://github.com/CodeBy-HP/Discord-react_redux_firebase-Project.git
 
 # Navigate to the project directory
-cd discord-clone-react-redux-firebase
+cd Discord-react_redux_firebase-Project
 
 # Install dependencies
 npm install
 
 # Start the development server
 npm start
+

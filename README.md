@@ -1,8 +1,48 @@
-# React + Vite
+# Discord Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A feature-rich Discord clone built with React, Redux, and Firebase. This project offers functionalities like user authentication via Google, creating channels, posting messages, deleting messages, and more.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Features
+
+- User authentication via Google
+- Creating channels
+- Posting messages
+- Deleting messages
+- Real-time updates using Firebase
+
+## Technologies Used
+
+- React
+- Redux
+- Firebase Authentication
+- Firebase Realtime Database
+- React-Redux
+- Tailwind CSS
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+Make sure you have the following installed on your local machine:
+
+- [Node.js](https://nodejs.org/) (v14 or higher recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+
+### Installation
+
+```sh
+# Clone the repository
+git clone https://github.com/YourUsername/discord-clone-react-redux-firebase.git
+
+# Navigate to the project directory
+cd discord-clone-react-redux-firebase
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
